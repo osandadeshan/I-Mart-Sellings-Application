@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="I-Mart Sellings Application.exe" version="1.0.0.0" publicKeyToken="a4961ce6eac85b71" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="I-Mart Sellings Application" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="I-Mart Sellings Application.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="I-Mart Sellings Application.exe" size="137728">
+      <assemblyIdentity name="I-Mart Sellings Application" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>XliJSYtije0iOY4KcXlohUAtT20=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="db1.accdb" size="643072">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DJNQE21J4eoKuNNPaWxNzar5kwA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="I-Mart Sellings Application.exe.config" size="1642">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>k0jtvxVJ4uahdNentgdiKYAIKK0=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Osanda-DELL3521\Osanda" issuerKeyHash="2d7c0c36caf416fc80d1b57695dc439a637e48af" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>eyrzun7/NMbt2x+h+v4QPFBASeo=</DigestValue></Reference></SignedInfo><SignatureValue>R4t9yhrXRATgsdwPkBDWgWvOYaEu6Vh9KwGTowafF9xo4zRoxKuJ/T6kt3SPR2Sqa5CvqhoqAWetF4VUD+lJBxev8UlC58m7TCc8Wgzf+6lkt0vJZphoRjWkfiOiCJc2OwoG77vZOohoOhExU5gI0SVYBT0/REzpHlW244cWchg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>v5USvtjJ9OSXfKuB0rvfe3tKMtJL7X7HmXMMQfzeWne8TSzTMxRUcRRHAgYJvpEDHW6mQijd5rI9QiR8w9kGgIz6VrpgpI0ZxbbWfZpUEj2qgvGdzABMTs7Nkm4VLJmdMS9TqpdTb14wFTP3Z9JMzC3D/iwWZu/Jhm4bBs7hEMM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ea4940503c10fefaa11fdbedc634ff7ebaf32a7b" Description="" Url=""><as:assemblyIdentity name="I-Mart Sellings Application.exe" version="1.0.0.0" publicKeyToken="a4961ce6eac85b71" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Osanda-DELL3521\Osanda</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>2z7DJie9YgxObffrnfgyp6PRdXU=</DigestValue></Reference></SignedInfo><SignatureValue>mD13GJaFy2sZZqq8k9YeJ2Mq1NqT7xuP7/FF4Fcdz/E6bHo47MGNvyQhdGgoNvtMHElHchnpUbZGP89ovJBmnD/7aUOqI25VnVmroGSIWX7ToVnXfrUXidofCjEANB6Fp1xpf5hJsCjBA01r91++XjtU611iPAm7a19zkCuyCUE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>v5USvtjJ9OSXfKuB0rvfe3tKMtJL7X7HmXMMQfzeWne8TSzTMxRUcRRHAgYJvpEDHW6mQijd5rI9QiR8w9kGgIz6VrpgpI0ZxbbWfZpUEj2qgvGdzABMTs7Nkm4VLJmdMS9TqpdTb14wFTP3Z9JMzC3D/iwWZu/Jhm4bBs7hEMM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQdjyH6Bd6yIVMp1oJFwT+lzANBgkqhkiG9w0BAQUFADA3MTUwMwYDVQQDHiwATwBzAGEAbgBkAGEALQBEAEUATABMADMANQAyADEAXABPAHMAYQBuAGQAYTAeFw0xNDExMTAxNzAwMjJaFw0xNTExMTAyMzAwMjJaMDcxNTAzBgNVBAMeLABPAHMAYQBuAGQAYQAtAEQARQBMAEwAMwA1ADIAMQBcAE8AcwBhAG4AZABhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/lRK+2Mn05Jd8q4HSu997e0oy0kvtfseZcwxB/N5ad7xNLNMzFFRxFEcCBgm+kQMdbqZCKN3msj1CJHzD2QaAjPpWumCkjRnFttZ9mlQSPaqC8Z3MAExOzs2SbhUsmZ0xL1Oql1NvXjAVM/dn0kzMLcP+LBZm78mGbhsGzuEQwwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAHkULP/Xy6ivskfqz5zY691dT5ZY7+sSbWeAL0NWAPiP/krId4mhkpbUpVDMjBFVWhvMNu80bsFWFwwfLNVtjsEjiYr/CmD/iTFq3GDFpsi+ZWfrwDQiw0/kEZX2oUQr7fDI+zyWLww0UW7+s7aZswcDcGGwu6NHirvISq19zAxJ</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

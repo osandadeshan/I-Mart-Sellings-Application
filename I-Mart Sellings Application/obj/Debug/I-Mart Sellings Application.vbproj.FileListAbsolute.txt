@@ -1,0 +1,16 @@
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\bin\Debug\I-Mart Sellings Application.exe.config
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\bin\Debug\db1.accdb
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\bin\Debug\I-Mart Sellings Application.exe
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\bin\Debug\I-Mart Sellings Application.pdb
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\bin\Debug\I-Mart Sellings Application.xml
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\obj\Debug\I-Mart Sellings Application.vbproj.GenerateResource.Cache
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\obj\Debug\I-Mart Sellings Application.exe
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\obj\Debug\I-Mart Sellings Application.xml
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\obj\Debug\I-Mart Sellings Application.pdb
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\bin\Debug\I-Mart Sellings Application.exe.manifest
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\bin\Debug\I-Mart Sellings Application.application
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\obj\Debug\I-Mart Sellings Application.exe.manifest
+C:\Users\Osanda\Documents\Visual Studio 2008\Projects\I-Mart Sellings Application\I-Mart Sellings Application\obj\Debug\I-Mart Sellings Application.application
