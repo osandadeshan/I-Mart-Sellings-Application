@@ -1,1 +1,1 @@
-# I-Mart-Sellings-Application
+# I-Mart Sellings Application
